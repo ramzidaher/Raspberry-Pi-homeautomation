@@ -1,4 +1,2 @@
-# pi-homeautomation-
-Automate your home using raspberry pi, relays and a couple of servo motor 
-
-
+# pi-homeautomation
+Raspberry Pi and Flask web server, together with ESP and IFTTT, can turn your home into a cool "smart home" on a budget. Think of Raspberry Pi as a mini computer that uses the Flask web server (a neat tool written in Python) to let you control stuff around your house from a simple webpage. ESP is another tiny gadget that hooks up to things like lights or thermostats so they can connect to your network and do what they're told. IFTTT is a web service that does something when something else happens. For instance, if it's sunset, IFTTT can tell the lights to switch on. Or if everyone's left the house, it can lower the heating. So, with all these together, you can make your home really smart and customize it just the way you like.
